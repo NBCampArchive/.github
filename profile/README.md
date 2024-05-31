@@ -37,8 +37,8 @@
 [Setting]: 프로젝트 세팅
 [Merge]: 머지
 ```
--   방식 : [Prefix] #이슈번호 - 내용작성
-    -   예시 : [Setting] #1 - 프로젝트 폴더링
+-   방식 : prefix #이슈번호 - 내용작성
+    -   예시 : setting #1 - 프로젝트 폴더링
 
 ## Coding Convention
 1.  네이밍 규칙:
